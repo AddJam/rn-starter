@@ -1,6 +1,6 @@
 # Mobile App
 
-react-native repo for the <<name>> mobile app
+react-native repo for the {projectName} mobile app
 
 # Development
 
